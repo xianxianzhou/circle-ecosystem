@@ -269,4 +269,5 @@ twitter: "https://twitter.com/coinbase"
 $ pip install -r requirements.txt
 $ python linter.py
 $ python logo_validator.py
+
 ```
