@@ -270,3 +270,5 @@ $ pip install -r requirements.txt
 $ python linter.py
 $ python logo_validator.py
 ```
+
+
